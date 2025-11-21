@@ -1,8 +1,9 @@
 
 ⭐ Frontend developer 
-📈 Trying to get better every day  
 🔍 Exploring AI/ML fundamentals  
 📌 Interested in freelancing & open-source  
+📈 Trying to get better every day  
+
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreeyaaaaxd_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreeya-pandey-975a3430a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pandeyshreeya0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandeyshreeya0@gmail.com) 
