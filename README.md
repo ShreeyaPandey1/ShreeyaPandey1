@@ -1,5 +1,5 @@
  ⭐ Frontend developer
- 🌱 Learning Java + DSA  
+ 
  🔍 Exploring AI/ML fundamentals  
  📌 Interested in freelancing & open-source  
  📈 Trying to get better every day 
