@@ -1,4 +1,3 @@
-
 ⭐ Frontend developer 
 🔍 Exploring AI/ML fundamentals  
 📌 Interested in freelancing & open-source  
